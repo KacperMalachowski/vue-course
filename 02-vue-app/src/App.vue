@@ -1,12 +1,14 @@
 <script setup lang="ts">
 import CompositionCounter from './components/CompositionCounter.vue';
 import OptionsCounter from './components/OptionsCounter.vue';
+import CompositionOptionsCounter from './components/CompositionOptionsCounter.vue';
 
 </script>
 
 <template>
   Composition counter: <CompositionCounter /> <br />
-  Options counter: <OptionsCounter />
+  Options counter: <OptionsCounter /> <br />
+  Composition in Options counter: <CompositionOptionsCounter />
 </template>
 
 <style scoped>
