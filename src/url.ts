@@ -1,0 +1,1 @@
+export const dataurl = "https://my-json-server.typicode.com/KacperMalachowski/vue-course/db.json"
