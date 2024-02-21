@@ -1,1 +1,1 @@
-export const dataurl = "https://my-json-server.typicode.com/KacperMalachowski/vue-course/db.json"
+export const dataURL = "http://localhost:5173/db.json"
