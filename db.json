@@ -1,0 +1,20 @@
+[
+  {
+    "task": "Buy groceries",
+    "dueDate": "2022-12-31",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "task": "Finish report",
+    "dueDate": "2022-12-15",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "task": "Call mom",
+    "dueDate": "2022-12-20",
+    "priority": "Low",
+    "completed": true
+  }
+]
