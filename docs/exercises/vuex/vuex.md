@@ -22,3 +22,5 @@ const store = createStore({
 
 export default store
 ```
+
+Now create store that will keep information about todos
